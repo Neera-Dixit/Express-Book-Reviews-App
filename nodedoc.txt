@@ -1,0 +1,19 @@
+jshint - used for checking the coding standard
+jscs - used for checking the coding quality
+
+db.books.insert({name:"neeraj",password:"neerajdixit"});
+
+--------------------------
+
+passport.js 
+
+----------------------------
+goodreads.com for 3rd party api related to books
+
+https://www.goodreads.com/api
+
+key: WbvapnRMJgIqxdqffAVwPg
+secret: fOgAxuP50Di9Bg0vFx87Vayhu5qz4EC7fOjshaT1YY
+
+-------------------
+xml2js --> converts xml to json
